@@ -130,8 +130,8 @@ color: white;
 
 .green-box {
     flex: 1 1 calc(50% - 20px);
-    background-color: #e0f2e9; 
-    color: #265e2e;
+    background-color:  #265e2e; 
+    color: #ffff;
     padding: 20px;
     border-radius: 10px;
     text-align: center;
