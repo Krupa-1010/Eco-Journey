@@ -1,0 +1,305 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family:'Arial', sans-serif;
+    color: #333;
+    background-color: #f4f4f4;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    position: absolute;
+    z-index: 2;
+    background: #5eae84;
+    background: linear-gradient(to bottom,#0E3923 0%,rgba(0,0,0,0) 100%);
+    width: 100%; 
+    top: 0;
+    left: 0;
+    
+  
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    height: 100px;
+}
+
+.site-name {
+    font-size: 25px;
+    color: #fff;
+    font-weight: bold;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-links li {
+    margin-left: 20px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    transition: color 0.3s ease;
+}
+
+.nav-links a:hover {
+    color: #ffeb3b;
+}
+
+.hero-section {
+    background: url('https://media.vogue.co.uk/photos/5d544b63c877eb00080973c9/16:9/w_2580,c_limit/original') no-repeat center center;
+    background-size: cover;
+    color: #fff;
+    padding: 100px;
+   text-align: center;
+    width: 100%;
+   
+    
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#search-form {
+    background-color: rgba(87, 187, 90, 0.8);
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 900px;
+    margin: 3px;
+    
+}
+
+#search-bar {
+    border-radius: 5px 0 0 5px;
+    border: 1px solid #1d5e1f;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.input-group{
+    width: 55%;
+}
+
+.input-group-append .btn-primary {
+    border-radius: 0 5px 5px 0;
+    background-color: #2a7f2d;
+    border-color: #2a7f2d;
+}
+
+.input-group-append .btn-primary:hover {
+    background-color: #245c1d;
+    border-color: #245c1d;
+}
+
+.filters {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    justify-content: space-between;
+}
+
+.filters .form-group {
+    margin-bottom: 3;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.acco-head{
+    color: #2a7f2d;
+    text-align: center;
+    font-weight: bold;
+}
+
+.acco-para{
+    color: #388b32;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Arizonia';
+}
+.card {
+    border: none;
+    border-radius: 10px;
+    height: 510px;
+    overflow: hidden;
+    margin: 8px;
+    padding-bottom: 5px;
+}
+
+.card-img-top {
+    border-bottom: 1px solid #ddd;
+}
+
+.card-body {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.card-title {
+    font-family: 'Archivo', sans-serif;
+    font-size: 1.25rem;
+}
+
+.card-text {
+    flex-grow: 1;
+}
+
+.card-img-custom {
+    width: 100%;
+    height: 200px; 
+    object-fit: cover;
+    border-radius: 8px;
+    
+}
+
+.card:hover{
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.btn-secondary {
+    background-color: #4a9c40;
+    border-color: #4a9c40;
+}
+
+.btn-secondary:hover {
+    background-color: #388b32;
+    border-color: #388b32;
+}
+
+.pagination .page-item a {
+    color: #2a7f2d;
+}
+
+.pagination .page-item.active .page-link {
+    background-color: #2a7f2d;
+    border-color: #2a7f2d;
+}
+
+#services{
+    margin-top: 60px;
+}
+.subhead{
+    color: #0F4328;
+    font-family: 'Arizonia';
+    font-size: 30px;
+    font-weight: lighter;
+    text-align: center;
+
+}
+.head1{
+    font-size: 44px;
+    color: #0F4328;
+    text-align: center;
+}
+.ser-sec{
+    display:flex;
+    flex-wrap: wrap;
+    margin-left: 30px;
+    margin: 20p;
+}
+.ser {
+    height: 306px;
+    border: 1px solid #ccc;
+    margin: 10px;
+    width: 270px;
+    cursor: pointer;
+    transition: box-shadow 0.3s ease;
+    border-radius: 8px;
+}
+.ser img{
+    height: 250px;
+    width: 270px;
+    border-radius: 5px;
+}
+.ser a{
+    text-decoration: none;
+    color: black;
+}
+.ser p {
+    text-align: center;
+}
+.ser:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transform: translateY(-10px);
+}
+
+footer{
+    background-color: #0E3923;
+    height: 200px;
+    display: flex;
+}
+
+footer .ft1{
+    width: 30%;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+footer .icons{
+    margin-left: 40px;
+    margin-top: -25px;
+    
+}
+.icons i{
+    margin: 5px;
+    height: 20px;
+}
+footer .ft2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+    width: 30%;
+}
+.ft2 p{
+    color: #fff;
+    font-size: 25px;
+}
+#links{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    line-height: 25px;
+    list-style-type: circle;
+    color: #fff;
+}
+footer .ft3{
+    width: 40%;
+    color: #fff;
+    margin-top: 20px;
+    line-height: 25px;
+
+}
+.ft3 h3{
+    font-size: 25px;
+    font-weight: lighter;
+}
+.ft3 p{
+    line-height: 30px;
+}
