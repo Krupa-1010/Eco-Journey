@@ -1,0 +1,615 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body {
+    font-family: Arial, sans-serif;
+}
+/*----------top section-------------*/
+.top-sec{
+    background-image:url(images/backwaters.jpg);
+    width: 100%;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+/* Navbar Styles */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    position: relative;
+    z-index: 1;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    height: 100px;
+}
+
+.site-name {
+    font-size: 25px;
+    color: #fff;
+    font-weight: bold;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-links li {
+    margin-left: 20px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    transition: color 0.3s ease;
+}
+
+.nav-links a:hover {
+    color: #ffeb3b;
+}
+
+.headings{
+    text-align: center;
+    padding-left: 500px;
+    padding-top: 30px;
+}
+.headings h2{
+    color: #fff;
+    font-family: 'Arizonia';
+    font-size: 35px;
+    font-weight: lighter;
+    animation: fadeIn 2s ease-in-out;
+}
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+.headings h1{
+    color: #029352;
+    font-size: 40px;
+}
+
+.dest-search{
+    height: 60px;
+    width: 60%;
+    margin: 20px auto;
+    border: 1px solid #029352;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+
+}
+.dest-search #search-input{
+    height: 30px;
+    width: 40%;
+    margin: 13px;
+    border: none;
+    border-bottom: 2px solid #28a745;
+    outline: none;
+    font-size: 1rem;
+    
+}
+.dest-search #searchButton{
+    height: 30px;
+    margin: 13px;
+    width: 150px;
+    border-radius: 20px;
+    border-color: #28a745;
+    background-color:#029352;
+    color: #fff;
+
+}
+
+/* Top Recommendations */
+#top-recommendations {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+#top{
+    font-size:40px;
+    text-align: center;
+    color: #0E3923;
+    margin-top: 5px;
+}
+
+.recommendation-card {
+    width: 17%;
+    height: 300px;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    align-items:flex-start;
+    transition: box-shadow 0.3s ease;
+    background-color: #fff;
+    border-radius: 8px;
+    animation: fadeIn 2s ease-in-out;
+}
+
+.recommendation-card:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transform: translateY(-10px);
+}
+
+.recommendation-card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 5px;
+    
+}
+
+.recommendation-card h3 {
+    margin: 10px;
+    font-size: 15px;
+}
+
+/* 5-Star Rating System */
+.star-rating {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.star-rating .star {
+    font-size: 1.5em;
+    color: gold;
+    margin-right: 5px;
+}
+
+/* See More Button */
+.see-more-button {
+    padding: 10px 20px;
+    background-color:#029352;
+    color: white;
+    border: none;
+    align-self: flex-end;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.see-more-button:hover {
+    background-color: #28a745;
+}
+/* Search Results */
+#results-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.result-item {
+    width: 30%;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.result-item img {
+    max-width: 100%;
+    height:230px;
+}
+
+/* Details Container */
+#details-container {
+    margin: 50px auto;
+    width: 70%;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    animation: fadeIn 2s ease-in-out;
+}
+#details-container h1{
+    margin-top: 3px;
+    color: #0E3923;
+    text-align: center;
+}
+#details-container .subhead{
+    color: #0E3923;
+    text-align: center;
+    font-family: 'Arizonia';
+    font-size: 30px;
+    font-weight: lighter;
+    margin: 3px;
+}
+#details-image-container,
+#details-info-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#details-image-container img {
+    width: 300px;
+    height: auto;
+    margin-right: 20px;
+}
+
+
+
+#map {
+    width:100%;
+    height: 400px;
+    margin-right: 20px;
+    
+}
+
+
+/* Reviews Container */
+#reviews-container {
+    margin-top: 20px;
+    width: 80%;
+}
+
+.review {
+    display: flex;
+    height: 100px;
+    margin-bottom: 10px;
+    width: 50%;
+    margin: 20px;
+    background-color: #B9F8DC;
+    margin-left: 45px;
+    padding: 10px;
+}
+
+.review-ctn{
+    display: flex;
+    flex-direction: column;
+    line-height:26px;
+    padding: 10px;
+}
+.review img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+#review-form{
+    margin-left: 45px;
+    display: flex;
+    flex-direction: column;
+    line-height: 40px;
+}
+#review-form h3{
+    color:#0E3923
+}
+#review-form .input-area{
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+    margin: 10px;
+    margin-left: 5px;
+
+}
+#review-form input{
+    width: 50%;
+    height: 35px;
+    margin: 6px;
+}
+
+#review-form textarea {
+    width: 50%;
+    height: 100px;
+    margin-bottom: 15px;
+    padding: 5px;
+    margin-left: 10px;
+}
+
+#review-form button {
+    height: 30px;
+    margin: 13px;
+    width: 150px;
+    border-radius: 20px;
+    border-color: #28a745;
+    background-color:#029352;
+    color: #fff;
+}
+
+#review-form button:hover {
+    background-color: #218838;
+}
+
+#place-details #content{
+    height: 350px;
+    display: flex;
+    justify-content:space-evenly;
+    margin: 50px;
+}
+#content img{
+    height: 350px;
+    border-radius: 5px;
+   
+}
+#place-details #writings{
+    margin-left: 50px;
+    
+}
+#place-details #writings h2{
+    color: #0E3923;
+}
+#place-details #writings p{
+    padding-top: 10px;
+    line-height: 26px;
+}
+
+/*services*/
+#services{
+    margin-top: 60px;
+}
+.subhead{
+    color: #0F4328;
+    font-family: 'Arizonia';
+    font-size: 30px;
+    font-weight: lighter;
+    text-align: center;
+
+}
+.head1{
+    font-size: 44px;
+    color: #0F4328;
+    text-align: center;
+}
+.ser-sec{
+    display:flex;
+    flex-wrap: wrap;
+    margin-left: 30px;
+    margin: 20p;
+}
+.ser {
+    height: 306px;
+    border: 1px solid #ccc;
+    margin: 10px;
+    width: 270px;
+    cursor: pointer;
+    transition: box-shadow 0.3s ease;
+    border-radius: 8px;
+}
+.ser img{
+    height: 250px;
+    width: 270px;
+    border-radius: 5px;
+}
+.ser a{
+    text-decoration: none;
+    color: black;
+}
+.ser p {
+    text-align: center;
+}
+.ser:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transform: translateY(-10px);
+}
+
+
+/*footer*/
+footer{
+    background-color: #0E3923;
+    height: 200px;
+    display: flex;
+}
+
+footer .ft1{
+    width: 30%;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+footer .icons{
+    margin-left: 40px;
+    margin-top: -25px;
+    
+}
+.icons i{
+    margin: 5px;
+    height: 20px;
+}
+footer .ft2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+    width: 30%;
+}
+.ft2 p{
+    color: #fff;
+    font-size: 25px;
+}
+#links{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    line-height: 25px;
+    list-style-type: circle;
+    color: #fff;
+}
+footer .ft3{
+    width: 40%;
+    color: #fff;
+    margin-top: 20px;
+    line-height: 25px;
+
+}
+.ft3 h3{
+    font-size: 25px;
+    font-weight: lighter;
+}
+.ft3 p{
+    line-height: 30px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .recommendation-card, .result-item {
+        width: 100%;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .recommendation-card img, .result-item img {
+        width: 100%;
+        height: auto;
+        margin-bottom: 10px;
+    }
+}
+
+/* Existing CSS styles (unchanged) */
+
+/* Responsive Design */
+@media (max-width: 1200px) {
+    .recommendation-card,
+    .result-item {
+        width: 30%;
+    }
+}
+
+@media (max-width: 992px) {
+    .recommendation-card,
+    .result-item {
+        width: 45%;
+    }
+    
+    .dest-search {
+        width: 80%;
+    }
+}
+
+@media (max-width: 768px) {
+    .recommendation-card,
+    .result-item {
+        width: 90%;
+    }
+
+    .headings h2 {
+        font-size: 2rem;
+    }
+
+    .headings h1 {
+        font-size: 2.5rem;
+    }
+
+    .dest-search {
+        flex-direction: column;
+        padding: 10px;
+    }
+
+    .dest-search #search-input {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .dest-search #searchButton {
+        width: 100%;
+    }
+    
+    navbar {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .right {
+        flex-direction: column;
+        width: 100%;
+        gap: 10px;
+    }
+
+    .left h2 {
+        font-size: 1.5rem;
+    }
+
+    .logo {
+        width: 120px;
+        height: 120px;
+    }
+}
+
+@media (max-width: 576px) {
+    .headings h2 {
+        font-size: 1.5rem;
+    }
+
+    .headings h1 {
+        font-size: 2rem;
+    }
+
+    #top {
+        font-size: 2rem;
+    }
+
+    .dest-search {
+        width: 100%;
+    }
+
+    #details-container {
+        width: 90%;
+    }
+}
+/* Large Screens */
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+    
+    .card {
+        width: 30%;
+        margin: 15px;
+    }
+}
+
+/* Medium Screens (Tablets and Small Laptops) */
+@media (min-width: 768px) and (max-width: 1199px) {
+    .card {
+        width: 45%;
+    }
+}
+
+/* Small Screens (Phones) */
+@media (max-width: 767px) {
+    .card {
+        width: 100%;
+    }
+}
+
+/* Optional: Additional Responsive Adjustments */
+@media (max-width: 480px) {
+    .card {
+        padding: 10px;
+    }
+    
+    .card h3 {
+        font-size: 18px;
+    }
+    
+    .card p {
+        font-size: 14px;
+    }
+}
