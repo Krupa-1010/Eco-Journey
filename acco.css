@@ -128,13 +128,13 @@ body {
 }
 
 .acco-head{
-    color: #2a7f2d;
+    color:  #0E3923;
     text-align: center;
     font-weight: bold;
 }
 
 .acco-para{
-    color: #388b32;
+    color: #0E3923;
     text-align: center;
     font-size: 30px;
     font-family: 'Arizonia';
@@ -248,7 +248,7 @@ body {
 
 footer{
     background-color: #0E3923;
-    height: 200px;
+    height: 250px;
     display: flex;
 }
 
