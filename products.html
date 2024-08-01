@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
+    <link rel="stylesheet" href="products.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="logo">
+            <img src="Products/logo2.png" alt="Logo">
+            <span class="site-name">Eco Journey</span>
+        </div>
+        <ul class="nav-links">
+            <li><a href="#">Home</a></li>
+            <li ><a href="#about">About</a></li>
+            <li ><a href="#">Destination</a></li>
+            <li><a href="#services">Service</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+   
+    <div class="container">
+        <div class="hero">
+            <div class="swiper">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <div class="slide img-slide1">
+                            <img src="Products/eco2.jpg" alt="eco2" width="1423" height="520">
+                        </div>
+                        <div class="hero-info">
+                            <h1 class="hero-h1"><span>Eco-Friendly </span>Sustainable Products</h1>
+                            <a href="" class="cta-btn">Shop Now</a>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="slide img-slide1">
+                            <img src="Products/eco3.webp" alt="eco2" width="1423" height="520">
+                        </div>
+                        <div class="hero-info slide2">
+                            <h1 class="hero-h1"><span>Travel Green, Travel Smart</span> </h1>
+                            <!-- <a href="" class="cta-btn">Shop Now</a> -->
+                        </div>
+                    </div>
+                    <div class="slide swiper-slide">
+                        <div class="img-slide1">
+                            <img src="https://s3.envato.com/files/451977533/IMG_2022-3209.jpg" alt="eco2" width="1423" height="520">
+                        </div>
+                        <div class="hero-info slide3">
+                            <h1 class="hero-h1"><span>Sustainable Living Made Easy</span></h1>
+                            <!-- <a href="" class="cta-btn">Shop Now</a> -->
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-pagination"></div>
+            </div>
+        </div>
+
+        <!-- Popular Categories Section -->
+        <div class="popular-categories">
+            <h2>Popular Categories</h2>
+            <div class="category-grid">
+                <div class="category" onclick="filterCategory('backpacks')">
+                    <img src="/Products/PC1.webp" alt="Backpacks">
+                    <p>Travel Bags</p>
+                </div>
+                <div class="category" onclick="filterCategory('clothing')">
+                    <img src="Products/PC4.jpg" alt="Clothing">
+                    <p>Clothing</p>
+                </div>
+                <div class="category" onclick="filterCategory('toiletries')">
+                    <img src="Products/p1.webp" alt="Jacket">
+                    <p> Toiletries</p>
+                </div>
+                <div class="category" onclick="filterCategory('Travel Essentials')">
+                    <img src="/Products/TravelEssentials.webp " alt="Watch">
+                    <p>Travel Essentials</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Products Section -->
+        <div class="products"></div>
+        <section id="services" >
+            <h2 class="head1">Services</h2>
+            <h3 class="subhead">Services for Sustainable Adventures</h3>
+            <div class="ser-sec">
+              <div class="ser" >
+                <a href="index1.html">
+                <img src="img/location.jpeg" alt="">
+                <p>Eco-friendly Destinations</p></a>
+              </div>
+              <div class="ser">
+                <a href="">
+                <img src="img/accomodation.jpg" alt="">
+                <p>Sustainable accomodations</p></a>
+              </div>
+              <div class="ser">
+                <a href="">
+                <img src="img/gear.jpg" alt="">
+                <p>Sustainable travel products</p></a>
+              </div>
+              <div class="ser">
+                <a href="">
+                <img src="img/tips.avif" alt="">
+                <p>Green Travel Tips</p></a>
+              </div>
+              <div class="ser">
+                <a href="">
+                <img src="img/contest.png" alt="">
+                <p>Travel photo contest</p></a>
+              </div>
+            </div>
+        </section>
+        <footer id="contact">
+            <div class="ft1">
+              <div class="logo" >
+                <img src="Products/logo2.png" alt="Logo">
+                <span class="site-name">Eco Journey</span>
+            </div>
+            <div class="icons">
+              <i class="fa-brands fa-facebook" style="color: #ffff;"></i>
+              <i class="fa-brands fa-whatsapp" style="color: #ffff;"></i>
+              <i class="fa-brands fa-instagram" style="color: #ffff;"></i>
+              <i class="fa-brands fa-linkedin" style="color: #ffff;"></i>
+            </div>
+            </div>
+            <div class="ft2">
+              <p>Quick Links</p>
+              <ul class="nav-links" id="links">
+                <li><a href="#">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#">Destination</a></li>
+                <li><a href="#services">Service</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+            </div>
+            <div class="ft3">
+              <h3>Get In Touch</h3><br>
+              <p><i class="fa-solid fa-phone" style="color: #f7f7f8;"></i> 456789789 <br> 78905678908 <br><i class="fa-solid fa-envelope"></i>ecojourney@gmail.com <br><i class="fa-solid fa-location-dot" style="color: #fafafa;"></i>  1234 Street lane Mumbai</p>
+            </div>
+        </footer>
+    </div>
+
+   
+
+    <script src="products.js"></script> <!-- link to the javascript file -->
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+</body>
+</html>
