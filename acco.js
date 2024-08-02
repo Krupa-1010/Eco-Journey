@@ -57,8 +57,8 @@ document.addEventListener('DOMContentLoaded', function() {
                         <p>Price: ₹${accommodation.price} per day</p>
                         <p>Location: ${accommodation.location}</p>
                         <p>Rating: ${accommodation.rating} Stars</p>
-                        <a href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(accommodation.district + ', ' + accommodation.state)}" 
-                           target="_blank" class="btn btn-secondary">Check on Map</a>
+                        
+                        ${accommodation.externalLink ? `<a href="${accommodation.externalLink}" target="_blank" class="btn btn-success ml-2">More Details</a>` : ''}
                     </div>
                 </div>
             `;
@@ -77,7 +77,7 @@ document.addEventListener('DOMContentLoaded', function() {
         const rating = document.getElementById('rating').value;
 
         filteredAccommodations = accommodations.filter(accommodation => {
-            const matchesLocation = location === '' || accommodation.district.toLowerCase().includes(location) || accommodation.state.toLowerCase().includes(location);
+            const matchesLocation = location === '' || accommodation.location.toLowerCase().includes(location);
             const matchesPrice = priceRange === 'all' || (priceRange === 'budget' && accommodation.price <= 4000) || (priceRange === 'mid-range' && accommodation.price > 1000);
             const matchesRating = rating === 'all' || accommodation.rating === parseInt(rating, 10);
 

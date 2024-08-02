@@ -6,7 +6,8 @@
         "price": 35000,
         "location": "Coorg, Karnataka",
         "tags": "sustainable,ecofriendly",
-        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/a9/d6/bc/lily-pool-villa.jpg?w=1200&h=-1&s=1"
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/a9/d6/bc/lily-pool-villa.jpg?w=1200&h=-1&s=1",
+        "externalLink": "https://www.tripadvisor.in/Hotel_Review-g1638802-d498382-Reviews-Evolve_Back_Coorg-Virajpet_Kodagu_Coorg_Karnataka.html"
     },
     {
         "name": "Taj West End",
@@ -15,7 +16,8 @@
         "price": 13000,
         "location": "Bengaluru, Karnataka",
         "tags": "sustainable,ecofriendly",
-        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/20/82/aa/heritage-block.jpg?w=1200&h=-1&s=1"
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/20/82/aa/heritage-block.jpg?w=1200&h=-1&s=1",
+        "externalLink": "https://www.tripadvisor.in/Hotel_Review-g297628-d302147-Reviews-Taj_West_End-Bengaluru_Bangalore_District_Karnataka.html"
     },
     {
         "name": "Novotel Chennai Sipcot",
@@ -24,7 +26,8 @@
         "price": 5200,
         "location": "Chennai, Tamil Nadu",
         "tags": "sustainable,ecofriendly",
-        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/9e/83/a1/novotel-chennai-sipcot.jpg?w=1200&h=-1&s=1"
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/9e/83/a1/novotel-chennai-sipcot.jpg?w=1200&h=-1&s=1",
+        "externalLink": "https://www.tripadvisor.in/Hotel_Review-g304556-d6728219-Reviews-Novotel_Chennai_Sipcot-Chennai_Madras_Chennai_District_Tamil_Nadu.html"
     },
     {
         "name": "SwaSwara Gokarna",
@@ -33,7 +36,8 @@
         "price": 13000,
         "location": "Gokarna, Karnataka",
         "tags": "sustainable,ecofriendly",
-        "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/548387628.jpg?k=d9ba3c52cc01a6e43da616d6e998dfb50b031f55c8281cab4a95339c0bcde0d7&o=&hp=1"
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/548387628.jpg?k=d9ba3c52cc01a6e43da616d6e998dfb50b031f55c8281cab4a95339c0bcde0d7&o=&hp=1",
+        "externalLink": "https://www.booking.com/searchresults.en-gb.html?aid=356980&label=gog235jc-1BCAsobEIIc3dhc3dhcmFIM1gDaGyIAQGYAQm4ARnIAQzYAQHoAQGIAgGoAgO4AozMsrUGwAIB0gIkMzkxN2MxMzgtYjcwMC00OTM3LTg1YjAtNjAyMTY3NjFlYzBi2AIF4AIB&no_rooms=1&highlighted_hotels=2032454&checkin=2024-08-07&redirected=1&city=900051864&hlrd=user_sh&group_adults=1&source=hotel&group_children=0&checkout=2024-08-08&keep_landing=1&sid=c17235fb4f500c471cfe3e5d7fe7435b"
     },
     {
         "name": "Lemon Tree Premier",
@@ -42,7 +46,8 @@
         "price": 8000,
         "location": "Hyderabad, Telangana ",
         "tags": "sustainable,ecofriendly",
-        "image": "https://lh3.googleusercontent.com/p/AF1QipPb2hH0I6axBQLoUYzchk7xqAuJTGqkWUgupY9J=s680-w680-h510"
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPb2hH0I6axBQLoUYzchk7xqAuJTGqkWUgupY9J=s680-w680-h510",
+        "externalLink": "https://www.lemontreehotels.com/lemon-tree-premier/hyderabad/hotel-hyderabad"
     },
     {
         "name": "EcoStay Kerala",
@@ -51,7 +56,8 @@
         "price": 2500,
         "location": "Alappuzha, Kerala",
         "tags": "sustainable,ecofriendly",
-        "image": "https://lh3.googleusercontent.com/p/AF1QipPb2hH0I6axBQLoUYzchk7xqAuJTGqkWUgupY9J=s680-w680-h510"
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPb2hH0I6axBQLoUYzchk7xqAuJTGqkWUgupY9J=s680-w680-h510",
+        "externalLink": "https://www.tripadvisor.in/Hotel_Review-g608471-d12364698-Reviews-Ecostay-Alappuzha_Alappuzha_District_Kerala.html"
     },
     {
         "name": "Green Channel Backwater",
@@ -59,15 +65,17 @@
         "rating": 4.2,
         "price": 3000,
         "location": "Kollam, Kerala",
-        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/f5/e9/8e/photo1jpg.jpg?w=1200&h=-1&s=1"
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/f5/e9/8e/photo1jpg.jpg?w=1200&h=-1&s=1",
+        "externalLink": "https://www.tripadvisor.in/Hotel_Review-g784581-d3590791-Reviews-Green_Channel_Backwater_Resort-Kollam_Kollam_District_Kerala.html"
     },
     {
-        "name": "Himalayan Eco Lodge",
+        "name": "Viraatkhai-Chakrata",
         "description": "An eco-friendly lodge in the Himalayas with breathtaking views.",
         "rating": 4.7,
         "price": 4000,
         "location": "Rishikesh, Uttarakhand",
-        "image": "https://imgcy.trivago.com/c_fill,d_dummy.jpeg,e_sharpen:60,f_auto,h_267,q_40,w_400/hotelier-images/a0/cd/cd987e3debe6b12a72314293a9971ce77ce4c6cf464f89bab71887be3242.jpeg"
+        "image": "https://imgcy.trivago.com/c_fill,d_dummy.jpeg,e_sharpen:60,f_auto,h_267,q_40,w_400/hotelier-images/a0/cd/cd987e3debe6b12a72314293a9971ce77ce4c6cf464f89bab71887be3242.jpeg",
+        "externalLink": "https://www.booking.com/hotel/in/viraatkhai-chakrata-himalayan-eco-lodges.en-gb.html?aid=356980&label=gog235jc-1FCAsobEIodmlyYWF0a2hhaS1jaGFrcmF0YS1oaW1hbGF5YW4tZWNvLWxvZGdlc0gzWANobIgBAZgBCbgBGcgBDNgBAegBAfgBDIgCAagCA7gCmM-ytQbAAgHSAiRlNGMxODQ4Yy1mYTcxLTRhNDEtYTNlMC05MWFlNjFlMDVhZjbYAgbgAgE&sid=c17235fb4f500c471cfe3e5d7fe7435b&all_sr_blocks=292342904_309610483_2_42_0;checkin=2024-08-07;checkout=2024-08-08;dest_id=-2092629;dest_type=city;dist=0;group_adults=1;group_children=0;hapos=1;highlighted_blocks=292342904_309610483_2_42_0;hpos=1;matching_block_id=292342904_309610483_2_42_0;no_rooms=1;req_adults=1;req_children=0;room1=A;sb_price_type=total;sr_order=popularity;sr_pri_blocks=292342904_309610483_2_42_0__300000;srepoch=1722591136;srpvid=382d430d653e046a;type=total;ucfs=1&"
     },
     {
         "name": "Green Valley Resort",
@@ -75,7 +83,8 @@
         "rating": 4.4,
         "price": 3200,
         "location": "Nainital, Uttarakhand",
-        "image": "https://lh5.googleusercontent.com/p/AF1QipNmZkliIiAPjrmbLCZkyhL_QRd20NVCWmII5CYg=w253-h189-k-no"
+        "image": "https://lh5.googleusercontent.com/p/AF1QipNmZkliIiAPjrmbLCZkyhL_QRd20NVCWmII5CYg=w253-h189-k-no",
+        "externalLink": "https://www.google.com/travel/search?q=Green%20Valley%20Resort%2C%20nainital&g2lb=4814050%2C4874190%2C4893075%2C4899568%2C4899569%2C4965990%2C4969803%2C10210671%2C72277293%2C72302247%2C72317059%2C72406588%2C72414906%2C72421566%2C72462234%2C72470899%2C72471280%2C72472051%2C72473841%2C72481459%2C72485658%2C72486593%2C72494250%2C72499705%2C72513513%2C72536387%2C72549171%2C72569093%2C72570850%2C72602734%2C72616120%2C72619927%2C72620306%2C72634630%2C72647018%2C72648289%2C72653660%2C72658035%2C72662543%2C72662666%2C72663440%2C72671093%2C72686035&hl=en-IN&gl=in&ssta=1&ts=CAESCAoCCAMKAggDGh4SHBIUCgcI6A8QCBgDEgcI6A8QCBgEGAEyBAgAEAAqBwoFOgNJTlI&qs=CAEyE0Nnb0k4WUQ1eGJTcndNNGJFQUU4CkIJEVVKoCq9dh55QgkRbWugwySVB_dCCRHOBpEMpJ50w1pjMmGqAV4QASoXIhNncmVlbiB2YWxsZXkgcmVzb3J0KAAyHxABIhsIqUxXBaimvkMA9kXpvNp6qjv8bvNyJ1iGbp4yIBACIhxncmVlbiB2YWxsZXkgcmVzb3J0IG5haW5pdGFs&ap=MABoAboBBnBob3Rvcw&ictx=111&ved=0CAAQ5JsGahcKEwjw7vnCgNaHAxUAAAAAHQAAAAAQMw"
     },
     {
         "name": "Geejgarh Village Retreat",
@@ -83,7 +92,8 @@
         "rating": 4.6,
         "price": 3500,
         "location": "Jaipur, Rajasthan",
-        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/2b/90/9b/geejgarh-village-retreat.jpg?w=1200&h=-1&s=1"
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/2b/90/9b/geejgarh-village-retreat.jpg?w=1200&h=-1&s=1",
+        "externalLink": "https://example.com/evolve-back"
     },
     {
         "name": "Hotel Lake View",
@@ -91,7 +101,8 @@
         "rating": 3.9,
         "price": 2900,
         "location": "Dharamshala, Himachal Pradesh",
-        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6ZPSC1dQnPAZs1nU0XsZ1ricMaevUAO6dmrjhLoXOXOS5GtfR"
+        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6ZPSC1dQnPAZs1nU0XsZ1ricMaevUAO6dmrjhLoXOXOS5GtfR",
+        "externalLink": "https://www.makemytrip.com/hotels/hotel_lake_view-details-dharamshala.html"
     },
     {
         "name": "Stone Wood Nature Resort",
@@ -99,7 +110,8 @@
         "rating": 4.0,
         "price": 5000,
         "location": "Gokarna, Karnataka",
-        "image": "https://r1imghtlak.mmtcdn.com/e1bd448c475211eaa41c0242ac110002.jpg?&output-quality=75&downsize=520:350&crop=520:350;2,0&output-format=jpg&downsize=480:336&crop=480:336"
+        "image": "https://r1imghtlak.mmtcdn.com/e1bd448c475211eaa41c0242ac110002.jpg?&output-quality=75&downsize=520:350&crop=520:350;2,0&output-format=jpg&downsize=480:336&crop=480:336",
+        "externalLink": "https://www.stonewoodresorts.com/nature-resort-gokarna/"
     },
     {
         "name": "Nature's Nest",
@@ -107,7 +119,8 @@
         "rating": 4.0,
         "price": 5500,
         "location": "Panjim, Goa",
-        "image": "https://r1imghtlak.mmtcdn.com/34a2f464005d11ee9a390a58a9feac02.jpeg?&output-quality=75&downsize=520:350&crop=520:350;2,0&output-format=webp"
+        "image": "https://r1imghtlak.mmtcdn.com/34a2f464005d11ee9a390a58a9feac02.jpeg?&output-quality=75&downsize=520:350&crop=520:350;2,0&output-format=webp",
+        "externalLink": "https://example.com/evolve-back"
     },
     {
         "name": "Green Paradise",
@@ -115,144 +128,147 @@
         "rating": 4.0,
         "price": 3800,
         "location": "Margao, Goa",
-        "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjGZFoUXX39_5OxXQ8Dafr8JLjn5INZKuMal-s5v7YYtYZemWU"
+        "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjGZFoUXX39_5OxXQ8Dafr8JLjn5INZKuMal-s5v7YYtYZemWU",
+        "externalLink": "https://www.makemytrip.com/hotels/green_paradise_hotel_and_resort-details-kaliabor.html"
     },
     {
-        "name": "Eco Retreat",
+        "name": "Bara Mangwa Eco Resort",
         "description": "A serene retreat promoting sustainable tourism.",
-        "rating": 4.3,
+        "rating": 3.0,
         "price": 2800,
         "location": "Darjeeling, West Bengal",
-        "image": "https://example.com/eco-retreat.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDaFdgvsvn0mEXntRYh8fvh8dXHH7uVZjD8g&s",
+        "externalLink": "https://www.tripadvisor.in/Hotel_Review-g304557-d4496638-Reviews-Bara_Mangwa_Eco_Resort-Darjeeling_Darjeeling_District_West_Bengal.html"
     },
     {
-        "name": "Green Haven",
+        "name": "Delight Green Heaven Resort",
         "description": "Eco-friendly accommodation with a focus on natural living.",
-        "rating": 4.5,
+        "rating": 4.0,
         "price": 2600,
         "location": "Kolkata, West Bengal",
-        "image": "https://example.com/green-haven.jpg"
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/a2/c0/0e/img-20210131-wa0004-largejpg.jpg?w=1200&h=-1&s=1",
+        "externalLink": "https://www.tripadvisor.in/Hotel_Review-g2051708-d20329889-Reviews-Delight_Green_Heaven_Resort-Lataguri_Jalpaiguri_District_West_Bengal.html"
     },
     {
-        "name": "EcoEscape",
+        "name": "Four Season Eco Resort",
         "description": "An eco-friendly getaway in the hills.",
-        "rating": 4.2,
+        "rating": 4.0,
         "price": 3300,
         "location": "Shillong, Meghalaya",
-        "image": "https://example.com/eco-escape.jpg"
+        "image": "https://lh3.googleusercontent.com/proxy/YTilne2kGkO33gPPXY5X3O-Tv7VuLgdVNciqS_cinh-fpYnh_jwz_fvg0_6cHB0k0LWlDGmU2QHaUwt1z1mLgf5q7AutRqNiQCdk7Ts-2n4N_-tzqVj_l8j3Z6914nBuLvbNgALzmZrDcdw09mVfDYhTBg3Smw=w360-h240-n-k-no",
+        "externalLink": "https://www.tripadvisor.in/Hotel_Review-g668046-d12432039-Reviews-Four_Season_Eco_Resort-Sohra_East_Khasi_Hills_District_Meghalaya.html"
     },
     {
-        "name": "Green Hills Resort",
+        "name": "Eco Paradise Resort & Spa",
         "description": "A sustainable resort with stunning hill views.",
-        "rating": 4.7,
-        "price": 4100,
+        "rating": 3.5,
+        "price": 5000,
         "location": "Cherrapunji, Meghalaya",
-        "image": "https://example.com/green-hills-resort.jpg"
-    },
-    {
-        "name": "Eco Paradise",
-        "description": "Sustainable accommodations amidst lush landscapes.",
-        "rating": 4.3,
-        "price": 3400,
-        "location": "Pune, Maharashtra",
-        "image": "https://example.com/eco-paradise.jpg"
+        "image": "https://lh5.googleusercontent.com/p/AF1QipOwKCUQgXAZPch2txoK3sJNq8W4JTdVqpq65Zz_=w360-h240-n-k-no",
+        "externalLink": "https://www.justdial.com/Rangpo/Eco-Paradise-Resort-Spa-Near-ITI-Mining-Rangpo/9999P3592-3592-160617110942-J5F2_BZDET/amp"
     },
     {
         "name": "Green Valley",
         "description": "Eco-friendly resort in the scenic Western Ghats.",
-        "rating": 4.6,
+        "rating": 3.5,
         "price": 3600,
         "location": "Lonavala, Maharashtra",
-        "image": "https://example.com/green-valley.jpg"
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/18/d2/fa/setting-sunlight-view.jpg?w=1200&h=-1&s=1",
+        "externalLink":"https://www.tripadvisor.in/Hotel_Review-g1162201-d786749-Reviews-Green_Valley_Resort-Sawantwadi_Maharashtra.html"
     },
     {
-        "name": "Eco Stay Bengaluru",
+        "name": "Namooru Ecostay",
         "description": "An eco-friendly urban retreat.",
         "rating": 4.4,
         "price": 3200,
         "location": "Bengaluru, Karnataka",
-        "image": "https://example.com/eco-stay-bengaluru.jpg"
+        "image": "https://img1.wsimg.com/isteam/ip/583367ea-62f1-4804-a12c-93244f98326b/blob-32f8156.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1240,cg:true",
+        "externalLink":"https://namooru.com"
     },
     {
-        "name": "Green Haven Mangalore",
+        "name": "Hotel Green Haven",
         "description": "Sustainable accommodation near the coast.",
-        "rating": 4.5,
+        "rating": 3.0,
         "price": 3100,
-        "location": "Mangalore, Karnataka",
-        "image": "https://example.com/green-haven-mangalore.jpg"
+        "location": "Madikeri, Karnataka",
+        "image": "https://r1imghtlak.ibcdn.com/9cb07c32f23611e8a8120242ac110003.jpg?downsize=634:357",
+        "externalLink": "https://www.goibibo.com/hotels/green-haven-hotel-in-coorg-665908242075271445/"
     },
     {
-        "name": "Eco Escape",
-        "description": "Sustainable accommodation with a focus on nature.",
-        "rating": 4.3,
-        "price": 2900,
-        "location": "Bhubaneswar, Odisha",
-        "image": "https://example.com/eco-escape.jpg"
-    },
-    {
-        "name": "Green Resort",
+        "name": "Green Point - Hotels and Resorts In Angul",
         "description": "Eco-friendly resort in a natural setting.",
         "rating": 4.6,
         "price": 3500,
         "location": "Puri, Odisha",
-        "image": "https://example.com/green-resort.jpg"
+        "image": "https://lh5.googleusercontent.com/p/AF1QipOoEE4PZZKfF4wS7BxOOVv6Da3Swl1cb9_rsnpj=w253-h168-k-no",
+        "externalLink": "https://www.google.com/travel/search?q=Green%20Resort%2C%20odisha&g2lb=4814050%2C4874190%2C4893075%2C4899568%2C4899569%2C4965990%2C4969803%2C10210671%2C72277293%2C72302247%2C72317059%2C72406588%2C72414906%2C72421566%2C72462234%2C72470899%2C72471280%2C72472051%2C72473841%2C72481459%2C72485658%2C72486593%2C72494250%2C72499705%2C72513513%2C72536387%2C72549171%2C72569093%2C72570850%2C72602734%2C72616120%2C72619927%2C72620306%2C72634630%2C72647018%2C72648289%2C72653660%2C72658035%2C72662543%2C72662666%2C72663440%2C72671093%2C72686035&hl=en-IN&gl=in&ssta=1&ts=CAEaSQopEicyJTB4M2ExOGE3M2E4YjBmZmQ4NzoweDFhYTg4M2YyYTQ0N2ZmOGISHBIUCgcI6A8QCBgDEgcI6A8QCBgEGAEyBAgAEAA&qs=CAEyE0Nnb0lpXy1mb3FyLW9OUWFFQUU4AkIJCYv_R6Tyg6ga&ap=MAC6AQZwaG90b3M&ictx=1&sa=X&ved=0CAAQ5JsGahcKEwiw9OOLidaHAxUAAAAAHQAAAAAQMw"
     },
     {
-        "name": "Eco Lodge",
-        "description": "An eco-friendly lodge in a serene environment.",
+        "name": "Aranya Kutir Eco Cottage",
+        "description": "Sustainable and eco-friendly cottage.",
         "rating": 4.4,
-        "price": 3100,
-        "location": "Ranchi, Jharkhand",
-        "image": "https://example.com/eco-lodge.jpg"
+        "price": 2300,
+        "location": " Purulia, West Bengal",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipMO_NqCXIj8UI3xp_84xm32wNW-udRMP2jp81eZ=w360-h240-n-k-no",
+        "externalLink":"https://jsdl.in/DT-99GLQVU9GE3"
     },
     {
-        "name": "Green Retreat Ranchi",
-        "description": "Sustainable and eco-friendly lodge.",
-        "rating": 4.5,
-        "price": 3400,
-        "location": "Jamshedpur, Jharkhand",
-        "image": "https://example.com/green-retreat-ranchi.jpg"
-    },
-    {
-        "name": "Eco Valley",
+        "name": "Flora Vythiri Resort",
         "description": "Eco-friendly accommodation with scenic views.",
-        "rating": 4.3,
-        "price": 3200,
-        "location": "Kochi, Kerala",
-        "image": "https://example.com/eco-valley.jpg"
+        "rating": 5,
+        "price": 8500,
+        "location": "Vythiri, Kerala",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/394529202.jpg?k=e6d2b1e187ce7d423adbef38f9f119de06374201ebb20e24e3b5afb70793bd48&o=&hp=1",
+        "externalLink": "https://www.booking.com/hotel/in/flora-vythiri-resort-vythiri.en-gb.html?label=gen173rf-1FCAYYCChsQgZrZXJhbGFICVgDaGyIAQGYAQm4ARnIAQzYAQHoAQH4AQKIAgGiAg1la29sb2ppc3QubmV0qAIDuALKvLK1BsACAdICJDQ0YjI3YzFlLWQ2ODQtNDJjYy1iYWFkLTM0ZWI2MmM4YTA2MtgCBeACAQ&sid=c17235fb4f500c471cfe3e5d7fe7435b"
     },
     {
-        "name": "Green Oasis",
+        "name": "The Travancore Heritage Beach Resort",
         "description": "Eco-friendly resort offering peaceful stays.",
         "rating": 4.5,
         "price": 3000,
         "location": "Thiruvananthapuram, Kerala",
-        "image": "https://example.com/green-oasis.jpg"
+        "image": "data:image/jpeg;base64,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",
+        "externalLink":"https://www.tripadvisor.in/ShowUserReviews-g23709497-d446944-r918485786-The_Travancore_Heritage_Beach_Resort-Adimalathura_Thiruvananthapuram_District_K.html"
     },
     {
-        "name": "Eco Resort",
+        "name": "Eco paradise Resort",
         "description": "Sustainable accommodations in the mountains.",
         "rating": 4.6,
         "price": 3700,
         "location": "Gangtok, Sikkim",
-        "image": "https://example.com/eco-resort.jpg"
+        "image": "https://lh4.googleusercontent.com/proxy/e43nDLbyTPaZSXVShea5wIFfTDdDbxlG721abZC_DVKawQjQcQsPerAl91nQ_mqQULJ2xz06ltS3sAoB-0__uUn2IZOfRzs7t15u23o9pDH5kcGXCeXJ4AuupepNQYVROBwl6omo3ZCD2Zl_IEYXbcFaDeh-uT0=w252-h168-k-no",
+        "externalLink": "https://www.google.com/travel/search?q=Eco%20Resort%2C%20sikkim&g2lb=4814050%2C4874190%2C4893075%2C4965990%2C4969803%2C72248047%2C72248048%2C72277293%2C72302247%2C72317059%2C72406588%2C72414906%2C72421566%2C72462234%2C72470899%2C72471280%2C72472051%2C72473841%2C72481459%2C72485658%2C72486593%2C72494250%2C72499705%2C72513513%2C72536387%2C72549171%2C72569093%2C72570850%2C72601598%2C72602734%2C72616120%2C72619927%2C72620306%2C72628720%2C72634630%2C72648289%2C72653660%2C72658035%2C72662543%2C72662666%2C72663440%2C72671093&hl=en-IN&gl=in&ssta=1&ts=CAESCAoCCAMKAggDGhwSGhIUCgcI6A8QCBgDEgcI6A8QCBgEGAEyAhAAKgcKBToDSU5S&qs=CAEyFENnc0lsb1RXZzk3OS03TFVBUkFCOApCCREqJZDybgWu1UIJEZgWdh879OQlQgkRoh8FVqUYs1NaUQgBMk2qAUoQASoOIgplY28gcmVzb3J0KAAyHxABIhsEwa3SUnGbhi5CWN424uESePluoglKXd-AgTYyFRACIhFlY28gcmVzb3J0IHNpa2tpbQ&ap=aAG6AQhvdmVydmlldw&ictx=111&ved=0CAAQ5JsGahcKEwjAlIP3hNaHAxUAAAAAHQAAAAAQDA"
     },
     {
-        "name": "Green Retreat Sikkim",
+        "name": "Green Hill Retreat",
         "description": "A retreat focusing on sustainability and nature.",
         "rating": 4.5,
         "price": 3500,
-        "location": "Pelling, Sikkim",
-        "image": "https://example.com/green-retreat-sikkim.jpg"
+        "location": "Gangtok, Sikkim",
+        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3ccTEchtlt1XOWX4brMGIcHX8QqSlZmDIbXu2Cq-W5elqezW3",
+        "externalLink": "https://www.tripadvisor.in/Hotel_Review-g659796-d17563054-Reviews-Green_Hill_Retreat-Gangtok_East_Sikkim_Sikkim.html"
     },
     {
-        "name": "Eco Village",
-        "description": "An eco-friendly village resort promoting sustainability.",
-        "rating": 4.4,
-        "price": 3300,
-        "location": "Agra, Uttar Pradesh",
-        "image": "https://example.com/eco-village.jpg"
+        "name": "Green Gold Park And Resort",
+        "description": "Eco-friendly resort surrounded by nature.",
+        "rating": 4.5,
+        "price": 3100,
+        "location": "Imphal, Manipur",
+        "image": "https://images.jdmagicbox.com/comp/imphal/i5/9999p3852.3852.170604212823.h2i5/catalogue/green-gold-park-and-resort-imphal-resorts-1iubs2g-250.jpg",
+        "externalLink": "https://www.justdial.com/Imphal/Green-Gold-Park-And-Resort-Lamlong/9999P3852-3852-170604212823-H2I5_BZDET/amp"
     },
+    {
+        "name": "Radisson Hotel Kandla",
+        "description": "An eco-friendly village resort promoting sustainability.",
+        "rating": 4.5,
+        "price": 5000,
+        "location": " Gandhidham, Gujarat",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/f5/57/95/villa-facade.jpg?w=1100&h=-1&s=1",
+        "externalLink": "https://www.tripadvisor.in/Hotel_Review-g1092105-d3511144-Reviews-Radisson_Hotel_Kandla-Gandhidham_Kutch_District_Gujarat.html"
+    },
+
+
+
     {
         "name": "Green Stay",
         "description": "Eco-friendly accommodations with modern amenities.",
@@ -318,11 +334,19 @@
         "image": "https://example.com/eco-homestay.jpg"
     },
     {
-        "name": "Green Field Resort",
-        "description": "Eco-friendly resort surrounded by nature.",
-        "rating": 4.5,
+        "name": "Eco Escape",
+        "description": "Sustainable accommodation with a focus on nature.",
+        "rating": 4.3,
+        "price": 2900,
+        "location": "Bhubaneswar, Odisha",
+        "image": "https://example.com/eco-escape.jpg"
+    },
+    {
+        "name": "Eco Lodge",
+        "description": "An eco-friendly lodge in a serene environment.",
+        "rating": 4.4,
         "price": 3100,
-        "location": "Imphal, Manipur",
-        "image": "https://example.com/green-field-resort.jpg"
+        "location": "Ranchi, Jharkhand",
+        "image": "https://example.com/eco-lodge.jpg"
     }
 ]
