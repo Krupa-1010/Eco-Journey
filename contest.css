@@ -361,6 +361,7 @@ body {
 }
 .ser-sec{
     display:flex;
+    justify-content: center;
     flex-wrap: wrap;
     margin-left: 30px;
     margin: 20p;
