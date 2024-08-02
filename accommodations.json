@@ -266,87 +266,44 @@
         "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/f5/57/95/villa-facade.jpg?w=1100&h=-1&s=1",
         "externalLink": "https://www.tripadvisor.in/Hotel_Review-g1092105-d3511144-Reviews-Radisson_Hotel_Kandla-Gandhidham_Kutch_District_Gujarat.html"
     },
-
-
-
     {
-        "name": "Green Stay",
-        "description": "Eco-friendly accommodations with modern amenities.",
-        "rating": 4.3,
-        "price": 3100,
-        "location": "Lucknow, Uttar Pradesh",
-        "image": "https://example.com/green-stay.jpg"
-    },
-    {
-        "name": "Eco Heritage",
-        "description": "Sustainable and eco-friendly heritage stay.",
-        "rating": 4.6,
-        "price": 3500,
-        "location": "Amritsar, Punjab",
-        "image": "https://example.com/eco-heritage.jpg"
-    },
-    {
-        "name": "Green Lodge",
-        "description": "Eco-friendly lodge promoting sustainable practices.",
-        "rating": 4.5,
-        "price": 3200,
-        "location": "Ludhiana, Punjab",
-        "image": "https://example.com/green-lodge.jpg"
-    },
-    {
-        "name": "Eco Camp",
-        "description": "Experience eco-friendly camping in nature.",
-        "rating": 4.4,
-        "price": 2800,
-        "location": "Shimla, Himachal Pradesh",
-        "image": "https://example.com/eco-camp.jpg"
-    },
-    {
-        "name": "Green Woods",
-        "description": "Eco-friendly resort in the forest.",
-        "rating": 4.6,
-        "price": 3400,
-        "location": "Dharamshala, Himachal Pradesh",
-        "image": "https://example.com/green-woods.jpg"
-    },
-    {
-        "name": "Eco Haven",
-        "description": "A peaceful eco-friendly resort.",
+        "name": "Aranya Eco Resort",
+        "description": "Nestled in Maredumilli's lush forests",
         "rating": 4.5,
         "price": 3000,
-        "location": "Ooty, Tamil Nadu",
-        "image": "https://example.com/eco-haven.jpg"
-    },
-    {
-        "name": "Green Acres",
-        "description": "Eco-friendly accommodations with panoramic views.",
-        "rating": 4.7,
-        "price": 3800,
-        "location": "Kodaikanal, Tamil Nadu",
-        "image": "https://example.com/green-acres.jpg"
-    },
-    {
-        "name": "Eco Homestay",
-        "description": "Sustainable homestay promoting eco-friendly living.",
-        "rating": 4.4,
-        "price": 2900,
-        "location": "Aizawl, Mizoram",
-        "image": "https://example.com/eco-homestay.jpg"
-    },
-    {
-        "name": "Eco Escape",
-        "description": "Sustainable accommodation with a focus on nature.",
-        "rating": 4.3,
-        "price": 2900,
-        "location": "Bhubaneswar, Odisha",
-        "image": "https://example.com/eco-escape.jpg"
-    },
-    {
-        "name": "Eco Lodge",
-        "description": "An eco-friendly lodge in a serene environment.",
-        "rating": 4.4,
-        "price": 3100,
-        "location": "Ranchi, Jharkhand",
-        "image": "https://example.com/eco-lodge.jpg"
-    }
+        "location": "Maredumilli, Andhra Pradesh",
+        "tags": "sustainable, ecofriendly",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIxASL--xXRFhU4Ytnk4b-6U1t8FF9MtAldaox8S0Ul-a71249",
+        "externalLink": "https://www.justdial.com/Rajahmundry/Aranya-Eco-Resorts-Sunnampadu-Near-maredumilli-Rampachodavaram/9999PX883-X883-170301174602-Y2N3_BZDET"
+      },
+      {
+        "name": "The Bliss International Eco Resort",
+        "description": "Located in the serene hills of Chhattisgarh",
+        "rating": 4.2,
+        "price": 3500,
+        "location": "Chhattisgarh, India",
+        "tags": "sustainable, ecofriendly",
+        "image": "https://images.trvl-media.com/lodging/32000000/31730000/31724500/31724476/w3202h1797x154y154-5d4e8b78.jpg?impolicy=fcrop&w=469&h=201&p=1&q=medium",
+        "externalLink": "https://www.tripadvisor.in/Hotel_Review-g2282630-d10123296-Reviews-Bliss_International_Hotel-Rajnandgaon_Rajnandgaon_District_Chhattisgarh.html"
+      },
+      {
+        "name": "Diphlu River Lodge",
+        "description": "Diphlu River Lodge in Manipur offers a unique eco-friendly experience with its bamboo and thatch cottages overlooking the river. The lodge emphasizes sustainable tourism practices and wildlife conservation.",
+        "rating": 4.8,
+        "price": 4500,
+        "location": "Assam, India",
+        "tags": "sustainable, ecofriendly",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/55/c0/27/diphlu-river-lodge.jpg?w=1200&h=-1&s=1",
+        "externalLink": "https://www.tripadvisor.in/Hotel_Review-g858488-d1219084-Reviews-Diphlu_River_Lodge-Kaziranga_National_Park_Golaghat_District_Assam.html"
+      },
+      {
+        "name": "Lakewoods Eco Camp Resort",
+        "description": "Located in the picturesque landscapes of Meghalaya",
+        "rating": 4.6,
+        "price": 2800,
+        "location": "Meghalaya, India",
+        "tags": "sustainable, ecofriendly",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/a8/2a/d3/caption.jpg?w=1200&h=-1&s=1",
+        "externalLink": "https://www.tripadvisor.in/Hotel_Review-g12948782-d24968949-Reviews-Lakewoods_Eco_Camp_Resort-Umsning_Ri_Bhoi_District_Meghalaya.html"
+      }
 ]
