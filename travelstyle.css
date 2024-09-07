@@ -17,7 +17,10 @@ a {
 
 .header {
 position: relative;
-background: url('images/green.jpg') no-repeat center center/cover;
+background: url('images/green.jpg');
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
 padding: 120px 20px;
 text-align: center;
 color: white;
